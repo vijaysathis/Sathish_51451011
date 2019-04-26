@@ -2,3 +2,4 @@ successfully learnt git
 completed the testing:
 file.txt
 file1.txt
+Completed the testing in various ways:
