@@ -1,3 +1,0 @@
-Retested and found successfull
-successfully tested the environment: This is finalized with apprpriate agenda:.
-tested the environment, This is the environment to be tested
